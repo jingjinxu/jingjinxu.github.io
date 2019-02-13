@@ -3,7 +3,7 @@
 [my design project](https://www.behance.net/xujingjin) 
 
 ### Project-1
-![image1](https://github.com/jingjinxu/BlogPicture/blob/master/1.png)
+![image1](https://raw.githubusercontent.com/jingjinxu/BlogPicture/master/1.png)
 
 
 ### Project-2
