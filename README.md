@@ -7,15 +7,15 @@
 
 
 ### Project-2
-![image1](https://github.com/jingjinxu/BlogPicture/blob/master/2.png)
+![image1](https://raw.githubusercontent.com/jingjinxu/BlogPicture/master/2.png)
 
 
 ### Project-3
-![image1](https://github.com/jingjinxu/BlogPicture/blob/master/3.png)
+![image1](https://raw.githubusercontent.com/jingjinxu/BlogPicture/master/3.png)
 
 
 ### Project-4
-![image1](https://github.com/jingjinxu/BlogPicture/blob/master/4.png)
+![image1](https://raw.githubusercontent.com/jingjinxu/BlogPicture/master/4.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
