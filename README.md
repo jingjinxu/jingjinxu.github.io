@@ -1,10 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to JingjinXu's design
 
-You can use the [editor on GitHub](https://github.com/jingjinxu/jingjinxu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[my design project](https://www.behance.net/xujingjin) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project-1
+![image1](https://github.com/jingjinxu/BlogPicture/blob/master/1.png)
 
-### Markdown
+
+### Project-2
+![image1](https://github.com/jingjinxu/BlogPicture/blob/master/2.png)
+
+
+### Project-3
+![image1](https://github.com/jingjinxu/BlogPicture/blob/master/3.png)
+
+
+### Project-4
+![image1](https://github.com/jingjinxu/BlogPicture/blob/master/4.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
