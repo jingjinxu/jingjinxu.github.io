@@ -6,7 +6,7 @@
 
 description...
 
-[![image1](https://raw.githubusercontent.com/jingjinxu/BlogPicture/master/1.png)](https://jingjinxu.github.io/project1)
+[![](https://raw.githubusercontent.com/jingjinxu/BlogPicture/master/1.png)](https://jingjinxu.github.io/project1)
 
 
 ### Project-2
